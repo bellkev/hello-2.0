@@ -6,4 +6,3 @@ jobs:
       - image: debian:jessie
     steps:
       - run: echo hello
-
